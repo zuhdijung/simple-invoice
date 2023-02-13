@@ -1,0 +1,12 @@
+body{
+    padding: 25px 0;
+}
+.form-invoice h1.header{
+    margin-bottom: 25px;
+}
+.form-invoice button{
+    margin-bottom: 25px;
+}
+.form-group{
+    margin: 5px 0;
+}
